@@ -88,16 +88,16 @@ Here are a few screenshots
 
 1. Posting some content
 
-[![image.png](https://github.com/satwikkansal/python_blockchain_app/raw/master/screenshots/1.png)](https://github.com/natashakhatib23/cizca_hackathon/blob/master/screenshots/2.PNG)
+[![image.png](https://github.com/natashakhatib23/cizca_hackathon/blob/master/screenshots/2.PNG)]
 
 2. Requesting the node to mine
 
-[![image.png](https://github.com/satwikkansal/python_blockchain_app/raw/master/screenshots/2.png)](https://github.com/natashakhatib23/cizca_hackathon/blob/master/screenshots/3.PNG)
+[![image.png](https://github.com/natashakhatib23/cizca_hackathon/blob/master/screenshots/3.PNG)]
 
 3. Resyncing with the chain for updated data
 
-[![image.png](https://github.com/satwikkansal/python_blockchain_app/raw/master/screenshots/3.png)](https://github.com/natashakhatib23/cizca_hackathon/blob/master/screenshots/4.PNG)
+[![image.png](https://github.com/natashakhatib23/cizca_hackathon/blob/master/screenshots/4.PNG)]
 
 4. Inserting a new node that will post and mine also
-  [![image.png](https://github.com/satwikkansal/python_blockchain_app/raw/master/screenshots/3.png)](https://github.com/natashakhatib23/cizca_hackathon/blob/master/screenshots/6.PNG)
+  [![image.png]https://github.com/natashakhatib23/cizca_hackathon/blob/master/screenshots/6.PNG)]
 
