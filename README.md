@@ -29,7 +29,7 @@ city’s diverse urban landscape provides an ideal environment for testing and r
 Clone the project,
 
 ```sh
-$ git clone https://github.com/natashakhatib23/Cisza.git
+$ git clone [https://github.com/natashakhatib23/Cisza.git](https://github.com/natashakhatib23/cizca_hackathon.git)
 ```
 
 Install the dependencies,
