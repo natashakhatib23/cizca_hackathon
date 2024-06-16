@@ -1,10 +1,15 @@
 # Cisza Combating Noise Pollution with Blockchain Technology in Warsaw 
 
+
+![image](https://github.com/natashakhatib23/cizca_hackathon/assets/39652010/b033a0d4-7043-4b93-9e49-0462b3533f1d)
+
+
 Imagine a world where noise pollution is meticulously monitored and managed, leading to quieter, healthier, and more harmonious urban
 environments. Cisza, an innovative project designed for a programming hackathon in Warsaw, aims to achieve this by
 harnessing the power of technology and the community. By utilizing a vast network of smartphone sound sensors integrated into a
 blockchain ecosystem, Cisza aspires to tackle the global issue of noise pollution.
-![image](https://github.com/natashakhatib23/cizca_hackathon/assets/39652010/b033a0d4-7043-4b93-9e49-0462b3533f1d)
+
+
 
 
 # How It Works
