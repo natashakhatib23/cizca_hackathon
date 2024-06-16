@@ -28,7 +28,7 @@ $ git clone https://github.com/natashakhatib23/Cisza.git
 Install the dependencies,
 
 ```sh
-$ cd python_blockchain_app
+$ cd cizca_hackathon
 $ pip install -r requirements.txt
 ```
 
