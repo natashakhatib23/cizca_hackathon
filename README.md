@@ -99,5 +99,5 @@ Here are a few screenshots
 [![image.png](https://github.com/natashakhatib23/cizca_hackathon/blob/master/screenshots/4.PNG)]
 
 4. Inserting a new node that will post and mine also
-  [![image.png]https://github.com/natashakhatib23/cizca_hackathon/blob/master/screenshots/6.PNG)]
+[![image.png]https://github.com/natashakhatib23/cizca_hackathon/blob/master/screenshots/6.PNG)]
 
